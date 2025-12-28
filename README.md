@@ -113,10 +113,6 @@ conda activate ga03
 
 ### 3️⃣ Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
 ### 4️⃣ Set Tavily API Key (Required for Web Search)
 
 ```bash
@@ -124,8 +120,6 @@ setx TAVILY_API_KEY "your_api_key_here"
 ```
 
 Restart the terminal after setting the key.
-
----
 
 ### 5️⃣ Run the Application
 
@@ -191,5 +185,3 @@ This project demonstrates:
 ## 📌 Conclusion
 
 This Hybrid RAG Search Engine goes beyond basic AI demos and reflects **real-world enterprise AI system design**. By combining semantic search, live web retrieval, controlled generation, and explainability, it closely mirrors how modern research assistants and AI copilots are built in practice.
-
-Just tell me, friend 👊
