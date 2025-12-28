@@ -95,18 +95,6 @@ This routing prevents hallucination and ensures relevant data sources are used.
 
 ---
 
-## 📂 Project Structure
-
-```
-├── app.py / app2.py
-├── requirements.txt
-├── README.md
-```
-
-*(Single-file Streamlit application for simplicity and clarity)*
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
